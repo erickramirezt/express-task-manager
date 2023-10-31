@@ -1,0 +1,25 @@
+[
+    {
+        "name": "bar stool",
+        "price": 40,
+        "company": "liddy",
+        "rating": 4.6
+    },
+    {
+        "name": "dinning table",
+        "price": 42,
+        "company": "ikea",
+        "rating": 4.55
+    },
+    {
+        "name": "emperor bed",
+        "price": 23,
+        "company": "ikea"
+    },
+    {
+        "name": "enterainment center",
+        "price": 59,
+        "featured": true,
+        "company": "caressa"
+    }
+]
